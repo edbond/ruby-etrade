@@ -1,4 +1,8 @@
-
-consumer_token.rb
-
-access_token.rb
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
